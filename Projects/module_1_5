@@ -1,0 +1,6 @@
+immutable_var = 'gap', 2, 1.99
+print(immutable_var)
+#кортеж неизменим
+mutable_list = [1, 2.33, 'gaap']
+mutable_list = [4, 4, 4]
+print(mutable_list)
